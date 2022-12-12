@@ -1,0 +1,30 @@
+body
+{
+background-color: aliceblue;
+}
+nav
+{
+    background-color: aquamarine;
+}
+#main_text
+{
+width: 55%;
+text-align: justify;
+}
+#main_img{
+    width: 35%;
+    height: 35%;
+    float: right;
+}
+.footer
+{
+    position: fixed;
+left: 2.5%;
+bottom: 5px;
+right: 2.5%; 
+width: 95%;
+background-color: gray;
+color: white;
+text-align: center;
+
+}
